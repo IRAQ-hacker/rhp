@@ -1,0 +1,72 @@
+/* Butoon border */
+.cl {
+   background-color: #04AA6D;
+   border: none;
+   color: black;
+   padding: 5px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+}
+.cl {border-radius: 10px;}
+.cl:hover{
+   background-color: seagreen;
+   color: silver;
+}
+.ph-less{
+   background-color: #000;
+   
+}
+
+
+/* Butoon border */
+.back-home {
+   background-color: #04AA6D;
+   border: none;
+   color: black;
+   padding: 5px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+}
+.back-home {border-radius: 10px;}
+
+.back-home:hover{
+   background-color: seagreen;
+   color: silver;
+}
+.les-css1{
+   background-color: darkcyan;
+   font-size: 15px;
+   color: black;
+   width: 60px;
+}
+
+.les-css1:hover{
+   background-color: springgreen;
+   color: silver;
+}
+.l-css-body{
+   background-color: #000;
+   
+}
+.les-css2{background-color: darkcyan;
+   font-size: 15px;
+   color: black;
+   width: 60px;
+}
+.les-css2:hover{
+   background-color: springgreen;
+   color: silver;
+}
+
+.h1-css{
+   color: darkturquoise;
+}
+.h1-css:hover{
+   color: white;
+}

@@ -1,0 +1,56 @@
+.ul-css{
+
+   color: seagreen;
+}
+.Auth-css{
+   color: silver;
+   text-align: right;
+   font-size: 15px;
+}
+
+.start-css{
+   color: silver;
+   text-align: right;
+}
+.ul1-css{
+   color: seagreen;
+}
+.ul2-css{
+   color: seagreen;
+}
+.ul3-css{
+   color: seagreen;
+}
+.ul4-css{
+   color: seagreen;
+}
+
+.ul5-css{
+   color: seagreen;
+}
+.Exm{
+   text-align: right;
+   color: silver;
+}
+.Ast{
+   color: snow;
+   text-align: right;
+}
+
+/* Butoon border */
+.v-c-css {
+   background-color: #04AA6D;
+   border: none;
+   color: black;
+   padding: 5px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+}
+.v-c-css {border-radius: 10px;}
+.v-c-css:hover{
+   background-color: seagreen;
+   color: silver;
+}

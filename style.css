@@ -1,0 +1,167 @@
+a:link, a:visited {
+      background-color: #000;
+      color: white;
+      padding: 8px 4px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+}
+.py1 {
+  overflow: hidden;
+  color: white;
+  background-color: darkcyan;
+  width: 60px;
+  float: left;
+  display: block;
+  padding: 4px 6px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+@media screen and (max-width: 400px){
+   body{
+      background-color: #000;
+      background-size: 420px 780px;
+      padding: 0;
+      margin: 0;
+   }
+}
+
+ @media screen and (min-width: 401px) and (max-width: 1800px){
+    body{
+       background-color: #000;
+       background-size: 1385px;
+       padding: 0;
+       margin: 0;
+    }
+ }
+
+.py1:hover{
+   background-color: black;
+}
+
+.py2 {
+   overflow: hidden;
+   color: white;
+   background-color: darkcyan;
+   width: 60px;
+   float: left;
+   display: block;
+   padding: 4px 6px;
+   text-decoration: none;
+   font-size: 17px;
+
+}
+
+.py2:hover {
+   background-color: black;
+}
+
+.wt {
+   text-align: center;
+}
+.wt a{
+   color: black;
+   text-align: center;
+   background-color: darkcyan;
+   font-size: 17px;
+}
+
+/* Butoon border */
+.send {
+   background-color: #04AA6D;
+   border: none;
+   color: black;
+   padding: 5px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+}
+.send {border-radius: 10px;}
+.send:hover{
+   background-color: seagreen;
+   color: silver;
+}
+.body-con{
+   background-color: #000;
+}
+
+.insta a{
+   background-color: orange;
+   width: 70px;
+}
+
+.tele a{
+   background-color: blue;
+   width: 70px;
+
+}
+.gith a{
+   background-color: #696969;
+   width: 50px;
+}
+.yout a{
+   background-color: red;
+   width: 20px;
+}
+
+
+
+
+.bd{
+   background-color: black;
+}
+
+.media a{
+   background-color: darkcyan;
+   
+}
+.media a.in{
+   background-color: orange;
+}
+.media a.tele{
+   background-color: blue;
+}
+
+
+.tools{
+   background-color: #000;
+}
+.tik a{
+   background-color: darkcyan;
+   width: 90px;
+}
+
+.phAuth{
+   background-color: black;
+}
+
+/* Butoon border */
+.ph1 {
+   background-color: #04AA6D;
+   border: none;
+   color: black;
+   padding: 5px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+}
+.ph1 {border-radius: 10px;}
+
+.ph1:hover{
+   background-color: seagreen;
+   color: slategray;
+}
+body{
+   background-color: black;
+}
+
+@media screen and (max-width: 400px){
+   .body{
+      background-color: white;
+   }
+}
